@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- ALWAYS finish your code generation with `npm run lint:fix` then `npm run build` to make sure the code you wrote it working correctly.
+- Never use console.log(), instead you should use the loggers in [logging.ts](mdc:src/utils/logging.ts).
